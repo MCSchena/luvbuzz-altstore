@@ -1,0 +1,64 @@
+{
+    "name": "LuvBuzz",
+    "subtitle": "",
+    "description": "",
+    "iconURL": "./assets/icons/logo500x500.png",
+    "headerURL": "./assets/icons/logo500x500.png",
+    "website": "",
+    "tintColor": "#CC2546",
+    "featuredApps": [
+        "us.wizards.luvbuzz"
+    ],
+    "apps": [
+        {
+            "name": "LuvBuzz",
+            "bundleIdentifier": "us.wizards.luvbuzz",
+            "developerName": "Global Wizards",
+            "subtitle": "Join LuvBuzz: A community that supports your sobriety journey!",
+            "localizedDescription": "Welcome to LuvBuzz, an innovative community-centric app that goes beyond the scope of typical platforms to create a safe, nurturing space for those embracing sobriety. Our mission is to facilitate meaningful connections, provide educational resources, and foster a community that supports each member's sobriety journey.",
+            "iconURL": "./assets/icons/logo500x500.png",
+            "tintColor": "#CC2546",
+            "screenshots": {
+                "iphone": [
+                    "./assets/screenshots/5.5-AnniversaryModal.png",
+                    "./assets/screenshots/5.5-CurrentProfile1.png",
+                    "./assets/screenshots/5.5-CurrentProfile2.png",
+                    "./assets/screenshots/5.5-EditProfile.png",
+                    "./assets/screenshots/5.5-InformationProfile.png",
+                    "./assets/screenshots/5.5-ModalMatch.png",
+                    "./assets/screenshots/5.5-OtherUserProfile1.png",
+                    "./assets/screenshots/5.5-OtherUserProfile2.png"
+                ],
+                "ipad": [
+                    "./assets/screenshots/ipad/12.9-AnniversaryModal.png",
+                    "./assets/screenshots/ipad/12.9-CurrentProfile1.png",
+                    "./assets/screenshots/ipad/12.9-CurrentProfile2.png",
+                    "./assets/screenshots/ipad/12.9-EditProfile.png",
+                    "./assets/screenshots/ipad/12.9-InformationProfil.pg",
+                    "./assets/screenshots/ipad/12.9-ModalMatch.png",
+                    "./assets/screenshots/ipad/12.9-OtherUserProfile1.png",
+                    "./assets/screenshots/ipad/12.9-OtherUserProfile2.png"
+                ]
+            },
+            "versions": [
+                {
+                    "version": "1.0.25",
+                    "date": "2023-12-19",
+                    "size": 18249230,
+                    "downloadURL": "https://drive.google.com/uc?export=download&id=14D-nAyde_5KUtchGxRSlYHMRfE36oDP4"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+
+                ],
+                "privacy": {
+                    "NSCameraUsageDescription": "This app needs access to your camera to let you capture and share photos within the app, allowing you to personalize your profile and interact with other users.",
+                    "NSPhotoLibraryUsageDescription": "This app needs access to your photos to enable you to choose images from your library, allowing you to personalize your profile and interact with other users.",
+                    "NSLocationWhenInUseUsageDescription": "This app needs access to your location to provide location-based features, helping you discover and connect with other users nearby who are on a similar journey of sobriety."
+                }
+            }
+        }
+    ]
+
+}
